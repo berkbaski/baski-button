@@ -1,0 +1,7 @@
+{
+  "name": "baski-button",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
