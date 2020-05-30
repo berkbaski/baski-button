@@ -3,6 +3,13 @@
 
 /** Ionic CSS Variables **/
 :root {
+  /** custom colors **/
+  --button-bg-not-activated: rgb(230,126,34);
+  --button-bg-activated: rgb(192,57,43);
+
+  --button-fc-not-activated: #ffff;
+  --button-fc-activated: #ecf0f1;
+
   /** primary **/
   --ion-color-primary: #3880ff;
   --ion-color-primary-rgb: 56, 128, 255;

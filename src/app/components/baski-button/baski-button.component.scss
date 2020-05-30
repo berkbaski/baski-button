@@ -1,0 +1,19 @@
+ion-button {
+  width: 80vw;
+  --background: var(--button-bg-not-activated);
+  --background-activated: var(--button-bg-activated);
+  color: var(--button-fc-not-activated);
+}
+
+.ball {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+}
+
+.rectangle {
+  width: 500px;
+  height: 100px;
+  background: rgba(0, 0, 255, 0.5);
+}
